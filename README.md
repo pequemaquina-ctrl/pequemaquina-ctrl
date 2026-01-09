@@ -1,61 +1,167 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=250&section=header&text=Ismael%20Amador&fontSize=70&animation=fadeIn&fontAlignY=35" width="100%" />
-
+  
+<!-- Nombre con animación de aparición/desaparición -->
 <h1>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&repeat=true&width=600&lines=Full+Stack+Developer;Java+%26+JavaScript+Lover;Cloud+Learner+(AWS);Bienvenido+a+mi+perfil+%F0%9F%91%8B" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&repeat=true&width=600&lines=Ismael+Amador+Serrano;Full+Stack+Developer;Bienvenido+a+mi+perfil+%F0%9F%91%8B" alt="Typing SVG" />
 </h1>
 
-<p align="center">
-<a href="https://linkedin.com/in/pequemaquina-ctrl" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:tu-correo@ejemplo.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://github.com/pequemaquina-ctrl" target="blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-</p>
+<!-- Barra de progreso animada -->
+<div style="width: 100%; max-width: 600px; margin: 20px auto;">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,14,18,20,24&height=3&section=header&animation=twinkling" width="100%"/>
+</div>
+
+### 💻 Desarrollador Full Stack | 🚀 Apasionado por el código
+
+</div>
 
 ---
 
-### 👨‍💻 Un poco sobre mí
+## 👨‍💻 Sobre mí
 
 ```javascript
 const ismael = {
     ubicacion: "📍 Torrent, Valencia 🇪🇸",
     rol: "Full Stack Developer",
-    estado: "🚀 Construyendo el futuro bit a bit",
+    estado: "🚀 Aprendiendo y construyendo proyectos",
     tecnologias: {
-        frontend: ["HTML5", "CSS3", "JavaScript", "Tailwind"],
+        frontend: ["HTML", "CSS", "JavaScript", "Tailwind CSS"],
         backend: ["Java", "SQL", "Oracle"],
-        cloud: ["AWS (Beginner)"],
-        herramientas: ["NetBeans", "Git", "Docker"]
-    }
+        cloud: ["AWS (Principiante)"],
+        herramientas: ["NetBeans", "Git", "GitHub"]
+    },
+    
+    aprendizajeContinuo: true,
+    buscoColaborar: true
 };
-🚀 Mi Arsenal Tecnológico
-<div align="center"> <img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dhtml,css,js,tailwind,java,spring,mysql,oracle,aws,git,github,docker,netbeans,vscode" /> </div>
+```
 
-📊 Mis Estadísticas de GitHub
-<p align="center"> <img width="48%" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dpequemaquina-ctrl%26show_icons%3Dtrue%26theme%3Dtransparent%26title_color%3D6366F1%26text_color%3Dffffff%26icon_color%3D6366F1%26hide_border%3Dtrue%26count_private%3Dtrue%26include_all_commits%3Dtrue" /> <img width="48%" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dpequemaquina-ctrl%26layout%3Dcompact%26theme%3Dtransparent%26title_color%3D6366F1%26text_color%3Dffffff%26hide_border%3Dtrue%26langs_count%3D6" /> </p>
+---
 
-<p align="center"> <img width="100%" src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3Dpequemaquina-ctrl%26theme%3Dtransparent%26stroke%3D6366F1%26fire%3D6366F1%26ring%3D6366F1%26currStreakLabel%3D6366F1%26sideNums%3Dffffff%26sideLabels%3Dffffff%26dates%3Dffffff%26hide_border%3Dtrue" /> </p>
+<div align="center">
+  
+## 🛠️ Tecnologías y Herramientas
 
-🧩 Zona de Recreo: Mini Quiz
-<table> <tr> <td> <details> <summary><b>Desafío JavaScript 🟡</b></summary>
+### 💻 Lenguajes
+  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
+### 🎨 Frameworks & Librerías
 
-<code>console.log(typeof NaN);</code>
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
+### 🗄️ Bases de Datos
 
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-<details> <summary><i>Ver respuesta</i></summary> <code>"number"</code>. ¡Sí, aunque parezca contradictorio, "Not a Number" es un tipo numérico en JS! 🤯 </details> </details> </td> <td> <details> <summary><b>Desafío Java ☕</b></summary>
+### ☁️ Cloud & Herramientas
 
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
 
-<code>String a = "hola"; String b = "hola"; System.out.println(a == b);</code>
+</div>
 
+---
 
+## 🎯 Actualmente
 
-<details> <summary><i>Ver respuesta</i></summary> <code>true</code>. Debido al <b>String Pool</b> de Java, ambas apuntan a la misma referencia en memoria. 🎯 </details> </details> </td> </tr> </table>
+- 🔭 Trabajando en proyectos personales para mejorar mis habilidades
+- 🌱 Ampliando conocimientos en **AWS** y **desarrollo full stack**
+- 💡 Explorando nuevas tecnologías y mejores prácticas
+- 🤝 Abierto a colaboraciones y nuevos proyectos
 
-💭 Frase del día
-"El código limpio siempre parece que fue escrito por alguien a quien le importa."
+---
 
-<div align="center"> <img src="https://www.google.com/search?q=https://capsule-render.vercel.app/api%3Ftype%3Dwaving%26color%3D6366f1%26height%3D100%26section%3Dfooter%26text%3D¡Gracias%20por%20visitar!&fontSize=30&fontAlignY=70&animation=fadeIn" width="100%" /> </div>
+## 🎮 Mini Quiz de Código
+
+<details>
+<summary>🧩 <b>Desafío 1: JavaScript</b></summary>
+
+```javascript
+console.log([] + []);
+console.log([] + {});
+console.log({} + []);
+```
+
+¿Qué se imprime en cada caso?
+
+<details>
+<summary>Ver respuesta</summary>
+
+- `""` (string vacío)
+- `"[object Object]"`
+- `"[object Object]"` o `0` (depende del contexto)
+
+¡JavaScript y sus curiosidades! 😄
+
+</details>
+</details>
+
+<details>
+<summary>🧩 <b>Desafío 2: Java</b></summary>
+
+```java
+String a = "hola";
+String b = "hola";
+String c = new String("hola");
+
+System.out.println(a == b);
+System.out.println(a == c);
+System.out.println(a.equals(c));
+```
+
+¿Qué imprime cada línea?
+
+<details>
+<summary>Ver respuesta</summary>
+
+- `true` (string pool)
+- `false` (diferentes referencias)
+- `true` (mismo contenido)
+
+¡Diferencia entre == y .equals()! 🎯
+
+</details>
+</details>
+
+---
+
+## 📫 Conecta conmigo
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ismael-amador-serrano-63ba772b4/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ismaelark98@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pequemaquina-ctrl)
+
+</div>
+
+---
+
+## 💭 Frase del día
+
+<div align="center">
+  
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</div>
+
+---
+
+<div align="center">
+  
+### ✨ "El código limpio siempre parece que fue escrito por alguien a quien le importa" - Robert C. Martin
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=100&section=footer&text=Gracias%20por%20visitar!&fontSize=30&fontAlignY=70&animation=fadeIn" />
+
+**⭐ Si te gusta algún proyecto, no dudes en dejar una estrella**
+
+![Visitor Count](https://profile-counter.glitch.me/pequemaquina-ctrl/count.svg)
 
 </div>
