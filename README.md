@@ -7,6 +7,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
   
 </div>
+
 ---
 
 ## 👨‍💻 Sobre mí
@@ -65,12 +66,12 @@ const ismael = {
 ## 📊 Estadísticas de GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mrkr-_-98&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=6366f1&icon_color=6366f1&text_color=a9b1d6" alt="Estadísticas de GitHub" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrkr-_-98&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=6366f1&text_color=a9b1d6" alt="Lenguajes más usados" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=pequemaquina-ctrl&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=6366f1&icon_color=6366f1&text_color=a9b1d6" alt="Estadísticas de GitHub" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pequemaquina-ctrl&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=6366f1&text_color=a9b1d6" alt="Lenguajes más usados" height="170"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrkr-_-98&theme=tokyonight&hide_border=true&background=1a1b27&stroke=6366f1&ring=6366f1&fire=f7768e&currStreakLabel=6366f1" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pequemaquina-ctrl&theme=tokyonight&hide_border=true&background=1a1b27&stroke=6366f1&ring=6366f1&fire=f7768e&currStreakLabel=6366f1" alt="GitHub Streak" />
 </div>
 
 ---
@@ -143,7 +144,7 @@ System.out.println(a.equals(c));
 <div align="center">
 
 <!-- Cuando tengas proyectos, reemplaza estos ejemplos -->
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mrkr-_-98&repo=NOMBRE_PROYECTO&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=6366f1)](https://github.com/mrkr-_-98/NOMBRE_PROYECTO)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pequemaquina-ctrl&repo=NOMBRE_PROYECTO&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=6366f1)](https://github.com/pequemaquina-ctrl/NOMBRE_PROYECTO)
 
 </div>
 
@@ -157,7 +158,7 @@ System.out.println(a.equals(c));
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ismael-amador-serrano-63ba772b4/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ismaelark98@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mrkr-_-98)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pequemaquina-ctrl)
 
 </div>
 
@@ -181,6 +182,6 @@ System.out.println(a.equals(c));
 
 **⭐ Si te gusta algún proyecto, no dudes en dejar una estrella**
 
-![Visitor Count](https://profile-counter.glitch.me/mrkr-_-98/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/pequemaquina-ctrl/count.svg)
 
 </div>
