@@ -1,11 +1,9 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=6366F1&center=true&vCenter=true&width=940&lines=Hey!+Soy+Ismael+%F0%9F%91%8B;Desarrollador+Full+Stack;Transformando+ideas+en+código+%F0%9F%92%BB%E2%9C%A8" alt="Typing SVG" />
-</div>
+  
+# ✨ Ismael Amador Serrano ✨
 
-<div align="center">
-  
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
-  
+### Desarrollador Full Stack
+
 </div>
 
 ---
@@ -59,19 +57,6 @@ const ismael = {
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
 
-</div>
-
----
-
-## 📊 Estadísticas de GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pequemaquina-ctrl&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=6366f1&icon_color=6366f1&text_color=a9b1d6" alt="Estadísticas de GitHub" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pequemaquina-ctrl&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=6366f1&text_color=a9b1d6" alt="Lenguajes más usados" height="170"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pequemaquina-ctrl&theme=tokyonight&hide_border=true&background=1a1b27&stroke=6366f1&ring=6366f1&fire=f7768e&currStreakLabel=6366f1" alt="GitHub Streak" />
 </div>
 
 ---
@@ -136,19 +121,6 @@ System.out.println(a.equals(c));
 
 </details>
 </details>
-
----
-
-## 🌟 Proyectos Destacados
-
-<div align="center">
-
-<!-- Cuando tengas proyectos, reemplaza estos ejemplos -->
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pequemaquina-ctrl&repo=NOMBRE_PROYECTO&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=6366f1)](https://github.com/pequemaquina-ctrl/NOMBRE_PROYECTO)
-
-</div>
-
-> 💡 **Próximamente:** Estaré subiendo mis proyectos más interesantes
 
 ---
 
