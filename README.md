@@ -1,8 +1,16 @@
 <div align="center">
   
-# ✨ Ismael Amador Serrano ✨
+<!-- Nombre con animación de aparición/desaparición -->
+<h1>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&repeat=true&width=600&lines=Ismael+Amador+Serrano;Full+Stack+Developer;Bienvenido+a+mi+perfil+%F0%9F%91%8B" alt="Typing SVG" />
+</h1>
 
-### Desarrollador Full Stack
+<!-- Barra de progreso animada -->
+<div style="width: 100%; max-width: 600px; margin: 20px auto;">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,14,18,20,24&height=3&section=header&animation=twinkling" width="100%"/>
+</div>
+
+### 💻 Desarrollador Full Stack | 🚀 Apasionado por el código
 
 </div>
 
