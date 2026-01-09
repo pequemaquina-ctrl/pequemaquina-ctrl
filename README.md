@@ -162,6 +162,4 @@ System.out.println(a.equals(c));
 
 **⭐ Si te gusta algún proyecto, no dudes en dejar una estrella**
 
-![Visitor Count](https://profile-counter.glitch.me/pequemaquina-ctrl/count.svg)
-
 </div>
